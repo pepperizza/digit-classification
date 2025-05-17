@@ -8,8 +8,11 @@ The load_digits dataset is a collection included in the scikit-learn library con
 Dataset characteristics:
 
 Number of samples: 1797
+
 Image dimensions: 8x8 pixels
+
 Classes: 10 digits (0-9)
+
 Features: 64 (pixel intensity values)
 
 ## Techniques implemented
