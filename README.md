@@ -30,5 +30,6 @@ seaborn
 
 ### License
 This project is distributed under the MIT license. See the LICENSE file for more details.
-
+---
 This project was created as part of my learning journey in data science and machine learning.
+---
