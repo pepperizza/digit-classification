@@ -16,6 +16,7 @@ Features: 64 (pixel intensity values)
 Logistic Regression:
 - model evaluation for multiclass classification
 - confusion matrix
+
 K-Nearest Neighbors (KNN):
 - performance evaluation and mistaken classified examples
 
